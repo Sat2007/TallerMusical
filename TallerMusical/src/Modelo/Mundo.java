@@ -54,6 +54,7 @@ public class Mundo {
 		String rta="";
 		for(int i =0;i<numParrafos;i++) {
 			rta+=mesclaDeArreglos(numRenglones);
+			rta+="tal cual";
 			rta+="\n";
 		}
 		return rta;

@@ -6,20 +6,16 @@ import java.util.Random;
 //es opcional: ser puede o no tener datos.
 
 public class Persistencia {
-	 String[]FRASE1= {" mami "," bebe "," princes "," mai "};
+	 String[]FRASE1= {" mami "," bebe "," princes "," mai "," sumerce "};
 	 String[]FRASE2= {" yo quiero "," yo puedo "," yo vengo a  "," voy a "};
 	 String[]FRASE3= {" encenderte "," amarte "," ligar "," jugar "};
-	 String[]FRASE4={" suave "," lento "," rapido "," Fuerte "};
+	 String[]FRASE4={" suave "," lento "," rapido "," Fuerte ","fornite","maicra"};
 	 String[]FRASE5= {" hasta que salga el sol "," TODA LA NOCHE "," HASTA EL AMANECER "," TODO EL DIA "};
 	 String[]FRASE6= {" SIN ANESTESIA XD\n"," SIN COMPROMISO XD\n"," FEIS TO FEIS XD\n "," SIN COMPROMISO XD\n"};
 	 
 	 
 	
 	public Persistencia() {
-		
-		 
-		 
-		 
 		
 	}
 	
